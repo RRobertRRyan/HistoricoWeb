@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+
+
     "allowJs": true,
     "noImplicitAny": false,
     "noUnusedLocals": false,
@@ -13,12 +15,12 @@
     "strictNullChecks": false
   },
   "files": [],
-  "references": [
+ "references": [
     {
       "path": "./tsconfig.app.json"
-    },
+    },  
     {
       "path": "./tsconfig.node.json"
-    }
+    }   
   ]
 }
